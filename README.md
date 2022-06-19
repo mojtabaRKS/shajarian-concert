@@ -3,9 +3,7 @@
 enter the following commands in terminal :
 ------------------------------------------------
 
-`$ pip install selenium`
-
-`$ pip install beautifulsoup4`
+`$ pip install bs4`
 
 `$ pip install python-vlc`
 
